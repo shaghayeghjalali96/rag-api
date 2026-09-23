@@ -13,7 +13,7 @@ PDF
 -> LLM
 -> Answer + Sources
 
-## Week 1 Stack
+## Stack
 
 - Python
 - FastAPI
@@ -90,10 +90,3 @@ Then use `/query`:
   "question": "What is the main idea of this document?"
 }
 ```
-
-## Roadmap
-
-- Week 1: basic RAG pipeline
-- Week 2: hybrid retrieval + reranking
-- Week 3: evaluation + streaming + caching + tests
-- Later: observability, deployment, Kubernetes
